@@ -1,0 +1,113 @@
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version:        Apache Tomcat (TomEE)/8.5.32 (7.1.0)
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Jun 20 2018 19:50:35 UTC
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server number:         8.5.32.0
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Linux
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            6.5.0-15-generic
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             /home/oswaldo/.jdks/corretto-1.8.0_402/jre
+14-Feb-2024 22:00:28.279 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_402-b08
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Amazon.com Inc.
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/conf/logging.properties
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/lib/openejb-javaagent.jar
+14-Feb-2024 22:00:28.280 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/temp
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/lib
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+14-Feb-2024 22:00:28.282 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+14-Feb-2024 22:00:28.316 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+14-Feb-2024 22:00:28.320 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+14-Feb-2024 22:00:28.322 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+14-Feb-2024 22:00:28.322 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+14-Feb-2024 22:00:28.383 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+14-Feb-2024 22:00:28.387 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Wed Feb 14 22:00:28 CST 2024
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 7.1.0
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20180902
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 09:50
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee
+14-Feb-2024 22:00:28.415 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee
+14-Feb-2024 22:00:28.416 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@60611244
+14-Feb-2024 22:00:28.416 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+14-Feb-2024 22:00:28.426 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is '/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/conf/tomee.xml'
+14-Feb-2024 22:00:28.438 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+14-Feb-2024 22:00:28.439 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+14-Feb-2024 22:00:28.439 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+14-Feb-2024 22:00:28.439 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+14-Feb-2024 22:00:28.440 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+14-Feb-2024 22:00:28.455 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+14-Feb-2024 22:00:28.475 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+14-Feb-2024 22:00:28.540 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+14-Feb-2024 22:00:28.540 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+14-Feb-2024 22:00:28.541 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start -------
+14-Feb-2024 22:00:28.541 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+14-Feb-2024 22:00:28.541 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initialization processed in 405 ms
+14-Feb-2024 22:00:28.550 INFORMACIÓN [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+14-Feb-2024 22:00:28.551 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+14-Feb-2024 22:00:28.552 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Arrancando servicio [Catalina]
+14-Feb-2024 22:00:28.552 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet Engine: Apache Tomcat (TomEE)/8.5.32 (7.1.0)
+14-Feb-2024 22:00:28.557 INFORMACIÓN [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Despliegue del archivo [/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT.war] de la aplicación web
+14-Feb-2024 22:00:28.560 INFORMACIÓN [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /
+14-Feb-2024 22:00:28.561 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.util.JarExtractor.extract Extracting jar: /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT.war
+14-Feb-2024 22:00:28.639 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.util.JarExtractor.extract Extracted path: /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT
+14-Feb-2024 22:00:28.639 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+14-Feb-2024 22:00:28.940 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT
+14-Feb-2024 22:00:29.006 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+14-Feb-2024 22:00:29.006 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean .Comp576064588: Container(type=MANAGED, id=Default Managed Container)
+14-Feb-2024 22:00:29.006 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+14-Feb-2024 22:00:29.009 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.core.managed.SimplePassivater.init Using directory /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/temp for stateful session passivation
+14-Feb-2024 22:00:29.013 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AutoConfig.deploy Configuring PersistenceUnit(name=beer-pu)
+14-Feb-2024 22:00:29.013 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default JDBC Database, type=Resource, provider-id=Default JDBC Database)
+14-Feb-2024 22:00:29.013 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'Default JDBC Database' of type 'DataSource for 'beer-pu'.
+14-Feb-2024 22:00:29.013 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default JDBC Database)
+14-Feb-2024 22:00:29.138 INFORMACIÓN [localhost-startStop-1] org.hsqldb.persist.Logger.logInfoEvent Checkpoint start
+14-Feb-2024 22:00:29.138 INFORMACIÓN [localhost-startStop-1] org.hsqldb.persist.Logger.logInfoEvent checkpointClose start
+14-Feb-2024 22:00:29.157 INFORMACIÓN [localhost-startStop-1] org.hsqldb.persist.Logger.logInfoEvent checkpointClose end
+14-Feb-2024 22:00:29.157 INFORMACIÓN [localhost-startStop-1] org.hsqldb.persist.Logger.logInfoEvent Checkpoint end - txts: 1
+14-Feb-2024 22:00:29.164 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Unmanaged JDBC Database, type=Resource, provider-id=Default Unmanaged JDBC Database)
+14-Feb-2024 22:00:29.165 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'Default Unmanaged JDBC Database' of type 'DataSource for 'beer-pu'.
+14-Feb-2024 22:00:29.165 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default Unmanaged JDBC Database)
+14-Feb-2024 22:00:29.169 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AutoConfig.setJtaDataSource Adjusting PersistenceUnit beer-pu <jta-data-source> to Resource ID 'Default JDBC Database' from 'null'
+14-Feb-2024 22:00:29.169 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AutoConfig.setNonJtaDataSource Adjusting PersistenceUnit beer-pu <non-jta-data-source> to Resource ID 'Default Unmanaged JDBC Database' from 'null'
+14-Feb-2024 22:00:29.177 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT" loaded.
+14-Feb-2024 22:00:29.178 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: /home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT
+14-Feb-2024 22:00:29.295 INFORMACIÓN [localhost-startStop-1] null.openjpa.Runtime OpenJPA dynamically loaded a validation provider.
+14-Feb-2024 22:00:29.300 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.assembler.classic.ReloadableEntityManagerFactory.createDelegate PersistenceUnit(name=beer-pu, provider=org.apache.openjpa.persistence.PersistenceProviderImpl) - provider time 115ms
+14-Feb-2024 22:00:29.319 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@60611244
+14-Feb-2024 22:00:29.339 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+14-Feb-2024 22:00:29.340 INFORMACIÓN [localhost-startStop-1] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+14-Feb-2024 22:00:29.456 INFORMACIÓN [localhost-startStop-1] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+14-Feb-2024 22:00:29.457 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 118 ms.
+14-Feb-2024 22:00:29.459 INFORMACIÓN [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT)
+14-Feb-2024 22:00:29.532 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Feb-2024 22:00:29.553 INFORMACIÓN [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [/home/oswaldo/source/test/java/apache-velocity/target/apache-tomee/webapps/ROOT.war] has finished in [996] ms
+14-Feb-2024 22:00:29.555 INFORMACIÓN [Catalina-startStop-1] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+14-Feb-2024 22:00:29.555 INFORMACIÓN [Catalina-startStop-1] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+14-Feb-2024 22:00:29.560 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8080"]
+14-Feb-2024 22:00:29.562 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["ajp-nio-8009"]
+14-Feb-2024 22:00:29.562 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in 1021 ms
+14-Feb-2024 22:02:11.319 INFO [http-nio-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.6.15.Final
+14-Feb-2024 22:02:11.435 INFO [http-nio-8080-exec-2] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+14-Feb-2024 22:02:11.510 WARN [http-nio-8080-exec-2] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14-Feb-2024 22:02:11.513 INFO [http-nio-8080-exec-2] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildCreator HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/velocity?useSSL=false]
+14-Feb-2024 22:02:11.513 INFO [http-nio-8080-exec-2] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildCreator HHH10001001: Connection properties: {user=root, password=****}
+14-Feb-2024 22:02:11.513 INFO [http-nio-8080-exec-2] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildCreator HHH10001003: Autocommit mode: false
+14-Feb-2024 22:02:11.515 INFO [http-nio-8080-exec-2] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init> HHH000115: Hibernate connection pool size: 20 (min=1)
+14-Feb-2024 22:02:11.625 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+14-Feb-2024 22:02:11.641 INFO [http-nio-8080-exec-2] org.hibernate.resource.beans.spi.ManagedBeanRegistryInitiator.resolveBeanContainer HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+14-Feb-2024 22:02:12.022 INFO [http-nio-8080-exec-2] org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@357f9649] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14-Feb-2024 22:02:12.038 INFO [http-nio-8080-exec-2] org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@66c6a4d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
