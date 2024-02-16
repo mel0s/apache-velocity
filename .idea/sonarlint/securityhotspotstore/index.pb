@@ -39,3 +39,6 @@ Q
 !src/main/webapp/WEB-INF/beans.xml,8/3/83008b1a88ba03a2548bb5b9ad0768c6c307d36c
 r
 Bsrc/main/java/com/baeldung/apache/velocity/util/HibernateUtil.java,d/5/d563130befe34a466857347e13237e5f2cd9807b
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

@@ -1,8 +1,0 @@
-com/baeldung/apache/velocity/model/Product.class
-com/baeldung/apache/velocity/servlet/LayoutServlet.class
-com/baeldung/apache/velocity/service/impl/EmployeeServicesImpl.class
-com/baeldung/apache/velocity/service/ProductService.class
-com/baeldung/apache/velocity/entity/Employee.class
-com/baeldung/apache/velocity/service/EmployeeServices.class
-com/baeldung/apache/velocity/servlet/ProductServlet.class
-com/baeldung/apache/velocity/util/HibernateUtil.class
