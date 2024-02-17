@@ -22,15 +22,18 @@
 			<param-value>/WEB-INF/velocity.properties</param-value>
 		</init-param>
 	</servlet>
+
 	<servlet-mapping>
 		<servlet-name>ProductServlet</servlet-name>
-		<url-pattern>/</url-pattern>
+		<url-pattern>/Product</url-pattern>
 	</servlet-mapping>
 
     <servlet-mapping>
         <servlet-name>LayoutServlet</servlet-name>
-        <url-pattern>/layout</url-pattern>
+        <url-pattern>/Layout</url-pattern>
     </servlet-mapping>
+
+
 	<servlet-mapping>
 		<servlet-name>velocityLayout</servlet-name>
 		<url-pattern>*.vm</url-pattern>
