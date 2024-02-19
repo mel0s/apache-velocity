@@ -4,12 +4,35 @@
 
     <link rel="stylesheet"  href="css/style.css">
 
+    <script
+    			  src="https://code.jquery.com/jquery-3.7.1.min.js"
+    			  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+    			  crossorigin="anonymous"></script>
+
+    <script>
+
+        function getAny(){
+            $.ajax({
+              url: "/app/user",
+            }).done(function() {
+              alert("Hola descargue algo");
+            });
+
+        }
+
+    </script>
+
 </HEAD>
 <BODY>
 <CENTER>
-    <h1>Today's Offers</h1>
+    <h1>Pagina de prueba velocity</h1>
     <BR/>
     <BR/>
+
+    <h3>$version</h3>
+
+    <h3>$build</h3>
+
     <h2>$products.size() Products on Sale!</h2>
     <BR/>
     We are proud to offer these fine products
