@@ -15,6 +15,7 @@
 		<servlet-name>LayoutServlet</servlet-name>
 		<servlet-class>com.baeldung.apache.velocity.servlet.LayoutServlet</servlet-class>
 	</servlet>
+
 	<servlet>
 		<servlet-name>velocityLayout</servlet-name>
 		<servlet-class>org.apache.velocity.tools.view.VelocityLayoutServlet</servlet-class>

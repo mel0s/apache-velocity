@@ -1,6 +1,7 @@
 package com.baeldung.apache.velocity.servlet;
 
 import com.baeldung.apache.velocity.entity.Employee;
+import com.baeldung.apache.velocity.entity.Pet;
 import com.baeldung.apache.velocity.service.EmployeeServices;
 import com.baeldung.apache.velocity.service.ProductService;
 import org.apache.velocity.Template;
@@ -32,11 +33,7 @@ public class LayoutServlet extends VelocityLayoutServlet {
 
         Logger logger= LoggerFactory.getLogger(LayoutServlet.class);
 
-		List<Employee> products = employeeServicesImpl.getAllEmployee();
-
-		for(Employee e: products){
-			System.out.println(e.getAge());
-		}
+		List<Pet> products = employeeServicesImpl.getAllPet();
 
 
 
